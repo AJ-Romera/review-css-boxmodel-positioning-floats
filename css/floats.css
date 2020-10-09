@@ -1,0 +1,12 @@
+body {
+    margin: 0 auto;
+    width: 70%;
+}
+
+img {
+    float: right;
+    /* float: left; */
+    /* float: none; */
+  }
+
+/* Here I would make a button for returning to index, but this is just an example. */
